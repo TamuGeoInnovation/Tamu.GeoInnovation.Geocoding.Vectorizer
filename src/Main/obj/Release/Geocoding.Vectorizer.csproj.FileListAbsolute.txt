@@ -1,0 +1,12 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Geocoding\Vectorizing\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Geocoding.Vectorizer.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Geocoding\Vectorizing\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Geocoding.Vectorizer.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Geocoding\Vectorizing\src\obj\Release\Geocoding.Vectorizer.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Geocoding\Vectorizing\src\obj\Release\USC.GISResearchLab.Geocoding.Vectorizer.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Geocoding\Vectorizing\src\obj\Release\USC.GISResearchLab.Geocoding.Vectorizer.pdb
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Vectorizer\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Vectorizer.dll
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Vectorizer\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Vectorizer.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Vectorizing\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Vectorizer.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Vectorizing\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Vectorizer.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Vectorizing\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Vectorizer.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Vectorizing\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Vectorizer.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Vectorizing\src\Main\obj\Release\Geocoding.Vectorizer.csprojResolveAssemblyReference.cache
