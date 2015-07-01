@@ -78,16 +78,16 @@
   <ItemGroup>
     <Reference Include="Assessor, Version=1.0.2084.27212, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\DevDependencies\ISI\Vectorizer\bin\Assessor.dll</HintPath>
+      <HintPath>..\..\libs\Assessor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="FloodFill, Version=1.0.2084.27209, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\DevDependencies\ISI\Vectorizer\bin\FloodFill.dll</HintPath>
+      <HintPath>..\..\libs\FloodFill.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="shp2vtable">
-      <HintPath>..\..\..\..\..\..\..\DevDependencies\ISI\Vectorizer\bin\shp2vtable.dll</HintPath>
+      <HintPath>..\..\libs\shp2vtable.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
