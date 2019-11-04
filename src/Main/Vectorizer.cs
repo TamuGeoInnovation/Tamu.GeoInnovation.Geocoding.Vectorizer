@@ -1,5 +1,5 @@
-using System;
 using AssessorLib;
+using System;
 using USC.GISResearchLab.Common.Geometries.Points;
 using USC.GISResearchLab.Common.Geometries.Polygons;
 
