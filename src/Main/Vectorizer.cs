@@ -18,7 +18,7 @@ namespace USC.GISResearchLab.Geocoding.Vectorizing
             ret.Area = polygon.area;
             ret.Cx = polygon.cx;
             ret.Cy = polygon.cy;
-            ret.Id = polygon.ID;
+            ret.Id = Convert.ToString(polygon.ID);
             ret.NumParts = polygon.NumParts;
             ret.NumPoints = polygon.NumPoints;
             ret.Parts = polygon.Parts;
@@ -54,7 +54,7 @@ namespace USC.GISResearchLab.Geocoding.Vectorizing
                 ret.Area = polygon.area;
                 ret.Cx = polygon.cx;
                 ret.Cy = polygon.cy;
-                ret.Id = polygon.ID;
+                ret.Id = Convert.ToString(polygon.ID);
                 ret.NumParts = polygon.NumParts;
                 ret.NumPoints = polygon.NumPoints;
                 ret.Parts = polygon.Parts;
